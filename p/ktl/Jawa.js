@@ -1,1 +1,1 @@
-const jawa = hama;
+const jawa = hama; // MAAF YA GUYS, MALAZ BIKIN VIDEO KLARIFIKASI 
