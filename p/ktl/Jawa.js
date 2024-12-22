@@ -1,1 +1,0 @@
-const jawa = hama;
