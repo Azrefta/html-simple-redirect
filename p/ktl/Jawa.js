@@ -1,1 +1,1 @@
-const jawa = hamkoooooooooontola;
+const jawa = hama;
