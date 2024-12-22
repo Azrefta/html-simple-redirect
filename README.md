@@ -19,8 +19,7 @@ The HTML file uses a simple `<script>` tag to execute JavaScript code that redir
 
 ### `index.html`
 
-```html
-<!DOCTYPE html>
+```html<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +31,7 @@ The HTML file uses a simple `<script>` tag to execute JavaScript code that redir
     </script>
 </head>
 <body>
-    <p>Redirecting to WhatsApp Channel...</p>
+    <p>Redirecting to url...</p>
 </body>
 </html>
 ```
