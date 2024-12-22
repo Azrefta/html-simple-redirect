@@ -1,1 +1,1 @@
-const jawa = hama; // BACOT KONTOL
+const jawa = hama;
